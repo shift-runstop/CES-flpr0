@@ -1,4 +1,5 @@
 # CES-flpr0
+
 Cranial Electrotherapy Stimulation using GPIO on Flpr0
 
 ![Description](images/Cranial-electric-stimulation.jpg)
@@ -11,6 +12,9 @@ This app is built using [ufbt](https://pypi.org/project/ufbt/) - a subset of the
 pip install ufbt
 ```
 
+
 ## See also
 
 * [Flipper plugin documentation](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/documentation)
+
+
